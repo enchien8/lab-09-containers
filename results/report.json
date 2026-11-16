@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.68.153",
+      "books": 1
+    },
+    {
+      "host": "4ba5d5ceba74",
+      "books": 101
+    },
+    {
+      "host": "595214512ac0",
+      "books": 1
+    },
+    {
+      "host": "Ethans-MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "b74a52241276",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-24-165",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-ethanchien",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-24-165",
+          "at": "2026-10-31 16:48:52.487000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-10 02:41:27.358000",
+          "job": "22735539_101"
+        },
+        {
+          "host": "4ba5d5ceba74",
+          "at": "2026-11-16 17:32:46.133000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-10 02:41:27.358000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-ethanchien",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-24-165",
+          "at": "2026-10-31 16:48:52.172000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-10 02:41:26.116000",
+          "job": "22735539_100"
+        },
+        {
+          "host": "4ba5d5ceba74",
+          "at": "2026-11-16 17:32:45.755000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-10 02:41:26.116000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-ethanchien",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-24-165",
+          "at": "2026-10-31 16:48:51.983000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-10 02:41:27.075000",
+          "job": "22735539_99"
+        },
+        {
+          "host": "4ba5d5ceba74",
+          "at": "2026-11-16 17:32:45.465000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-10 02:41:27.075000"
+      }
+    }
+  ]
+}
